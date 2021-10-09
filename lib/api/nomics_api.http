@@ -1,0 +1,3 @@
+@baseURL = https://api.nomics.com/v1/currencies/ticker
+
+GET {{baseURL}}/
